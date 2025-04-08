@@ -8,11 +8,13 @@
 <h2 align="center">Sobre Mim</h2>
 
 <p align="center">
-Em busca de aprimorar minhas habilidades e contribuir com a segurança e desenvolvimento de sistemas back-end.  
-💻 **Tecnologias principais:** Go, Java, Python  
-🔐 **Cybersecurity:** Focado em proteger sistemas e dados, com estudos em práticas de segurança como criptografia, auditoria de sistemas e monitoramento.  
-📚 **Atualmente estudando:** Go para Backend e implementações de segurança em API.  
-📫 **Entre em contato:** [rafael112.soliveira@gmail.com](mailto:rafael112.soliveira@gmail.com)
+
+- 🔭 Em busca de aprimorar minhas habilidades e contribuir com a segurança e desenvolvimento de sistemas back-end.  
+- 💻 **Tecnologias principais**: Go, Java, Python  
+- 🔐 **Cybersecurity**: Focado em proteger sistemas e dados, com estudos em práticas de segurança como criptografia, auditoria de sistemas e monitoramento.  
+- 📚 **Atualmente estudando**: Go para Backend e implementações de segurança em API.  
+- 📫 **Entre em contato**: [rafael112.soliveira@gmail.com](mailto:rafael112.soliveira@gmail.com)
+
 
 </p>
 
