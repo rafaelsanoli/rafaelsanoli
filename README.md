@@ -33,8 +33,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="40" alt="Kubernetes logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" alt="AWS logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
@@ -47,9 +45,7 @@
 - **Go**: Conhecimento avançado para construir APIs e microservices rápidos e eficientes.
 - **Java**: Experiência em back-end, desenvolvendo soluções robustas e escaláveis.
 - **Python**: Usado para automações, análise de dados e scripts para segurança.
-- **Docker & Kubernetes**: Gerenciamento de containers para aplicações escaláveis e ambientes isolados.
 - **Cybersecurity**: Com foco em segurança de APIs, práticas de DevSecOps e análise de vulnerabilidades.
-- **AWS**: Implantação de infraestrutura na nuvem com foco em segurança.
 - **Git**: Controle de versão para gerenciamento eficiente de código.
 
 ---
@@ -67,9 +63,8 @@
 
 <h2 align="center">📚 Projetos Pessoais</h2>
 
-- **API de Autenticação Segura com Go e JWT**: Construí uma API RESTful com autenticação segura utilizando JSON Web Tokens (JWT), para entender melhor como garantir que o acesso à dados e serviços seja controlado de maneira eficiente.
-- **Desenvolvimento de Scripts de Automação em Python**: Criei scripts para automação de testes e auditoria de sistemas, visando facilitar a detecção de vulnerabilidades.
-- **Monitoramento de Vulnerabilidades em Aplicações Web com OWASP ZAP**: Integrei a ferramenta OWASP ZAP em meu fluxo de trabalho de segurança para realizar testes automatizados e buscar falhas de segurança.
+- **API E CRIAÇÃO DE CHAT ANÔNIMO P2P com TLS(EM DESENVOLVIMENTO)**: Implementei um sistema de comunicação anônima peer-to-peer (P2P) com interface interativa em terminal utilizando a biblioteca gocui, suporte a criptografia ponta a ponta (E2EE) com TLS, autenticação obrigatória por senha e descoberta automática de peers via UDP broadcast. O projeto foi estruturado com arquitetura modular e inclui recursos como reconexão automática, envio seguro de arquivos e comandos interativos, visando estudar técnicas de segurança, resiliência em redes descentralizadas e interação em tempo real via terminal.
+
 
 ---
 
