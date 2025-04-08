@@ -38,8 +38,8 @@
 
 <h2 align="center">🛠️ Principais Tecnologias e Ferramentas no Meu Workflow</h2>
 
-- **Go**: Conhecimento avançado para construir APIs e microservices rápidos e eficientes.
-- **Java**: Experiência em back-end, desenvolvendo soluções robustas e escaláveis.
+- **Go**: Conhecimento para construir APIs e microservices rápidos e eficientes.
+- **Java**: Conhecimento em back-end, desenvolvendo soluções robustas e escaláveis.
 - **Python**: Usado para automações, análise de dados e scripts para segurança.
 - **Cybersecurity**: Com foco em segurança de APIs, práticas de DevSecOps e análise de vulnerabilidades.
 - **Git**: Controle de versão para gerenciamento eficiente de código.
