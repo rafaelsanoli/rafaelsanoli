@@ -74,7 +74,6 @@
 ### 📫 Contact / Contato
 
 - **Email**: [rafael112.soliveira@gmail.com](mailto:rafael112.soliveira@gmail.com)
-- **LinkedIn**: [Your Profile / Seu Perfil]()
 - **GitHub**: [github.com/rafaelsanoli](https://github.com/rafaelsanoli)
 
 <p align="center">
