@@ -1,70 +1,82 @@
-<h1 align="center">Olá, me chamo Rafael! 🧙‍♂️</h1>
-
-### 
-<p align="center">Desenvolvedor Back-End | Cybersecurity Enthusiast</p>
-
----
-
-<h2 align="center">Sobre Mim</h2>
+<h1 align="center">Rafael Oliveira</h1>
+<h3 align="center">Desenvolvedor Backend | Cibersegurança<br>Backend Developer | Cybersecurity </h3>
 
 <p align="center">
-
-- 🔭 Em busca de aprimorar minhas habilidades e contribuir com a segurança e desenvolvimento de sistemas back-end.  
-- 💻 **Tecnologias principais**: Go, Java, Python  
-- 🔐 **Cybersecurity**: Focado em proteger sistemas e dados, com estudos em práticas de segurança como criptografia, auditoria de sistemas e monitoramento.  
-- 📚 **Atualmente estudando**: Go para Backend e implementações de segurança em API.  
-- 📫 **Entre em contato**: [rafael112.soliveira@gmail.com](mailto:rafael112.soliveira@gmail.com)
-
-
+  <a href="https://www.linkedin.com/in/seu-linkedin" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rafael112.soliveira@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
 
-<h2 align="center">🔧 Linguagens e Ferramentas</h2>
+### 🛠️ Technical Stack / Habilidades Técnicas
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
+**Core Languages / Linguagens Principais:**
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
+
+**Backend Development / Desenvolvimento Backend:**
+- RESTful APIs & Microservices / APIs RESTful e Microsserviços
+- Database Systems / Bancos de Dados (SQL/NoSQL)
+
+**Cybersecurity / Segurança Cibernética:**
+<p>
+  <img src="https://img.shields.io/badge/TLS-3DDC84?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="TLS"/>
+  <img src="https://img.shields.io/badge/Cryptography-000000?style=for-the-badge&logo=keybase&logoColor=white" alt="Cryptography"/>
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
+</p>
+
+- Secure Coding / Codificação Segura
+- API Security / Segurança de APIs (OAuth2, JWT)
+- Penetration Testing / Testes de Invasão
+- Network Security / Segurança de Redes
+
+---
+
+### 🔭 Featured Projects / Projetos Destacados
+
+#### [Magician Security Analyzer](https://github.com/rafaelsanoli/magician-security-analyzer)
+**EN**: Automated security auditing platform for code repositories with AI-powered analysis, auto-fixes, and visual reports  
+**PT**: Plataforma de auditoria de segurança automatizada para repositórios com análise por IA, correções automáticas e relatórios visuais  
+
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go" alt="Go"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/Security-3DDC84?style=flat&logo=owasp" alt="Security"/>
+</p>
+
+**Key Features / Principais Recursos**:
+- ✅ **EN**: Code scanning (Semgrep/GoSec) | **PT**: Análise de código (Semgrep/GoSec)
+- 🔐 **EN**: Secrets detection (Gitleaks) | **PT**: Detecção de segredos (Gitleaks)
+- 🐳 **EN**: Dockerfile security audit | **PT**: Auditoria de segurança em Dockerfiles
+- 🤖 **EN**: AI-powered vulnerability suggestions | **PT**: Sugestões de vulnerabilidades por IA
+- 🔧 **EN**: Automatic fixes & PR generation | **PT**: Correções automáticas e geração de PRs
+
+---
+
+#### [P2P Secure Chat with TLS / Chat Seguro P2P com TLS](https://github.com/yourrepo)
+**EN**: Anonymous P2P communication system with E2EE encryption and TLS  
+**PT**: Sistema de comunicação P2P anônimo com criptografia ponta-a-ponta e TLS  
+
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go" alt="Go"/>
+  <img src="https://img.shields.io/badge/TLS-3DDC84?style=flat&logo=letsencrypt" alt="TLS"/>
 </p>
 
 ---
 
-<h2 align="center">🛠️ Principais Tecnologias e Ferramentas no Meu Workflow</h2>
+### 📫 Contact / Contato
 
-- **Go**: Conhecimento para construir APIs e microservices rápidos e eficientes.
-- **Java**: Conhecimento em back-end, desenvolvendo soluções robustas e escaláveis.
-- **Python**: Usado para automações, análise de dados e scripts para segurança.
-- **Cybersecurity**: Com foco em segurança de APIs, práticas de DevSecOps e análise de vulnerabilidades.
-- **Git**: Controle de versão para gerenciamento eficiente de código.
+- **Email**: [rafael112.soliveira@gmail.com](mailto:rafael112.soliveira@gmail.com)
+- **LinkedIn**: [Your Profile / Seu Perfil]()
+- **GitHub**: [github.com/rafaelsanoli](https://github.com/rafaelsanoli)
 
----
-
-<h2 align="center">🔐 Cibersegurança: Minhas Áreas de Interesse</h2>
-
-- **Criptografia**: Implementação de técnicas de criptografia para proteger dados sensíveis.
-- **Auditoria de Sistemas**: Acompanhamento e verificação de sistemas para garantir a integridade e segurança.
-- **Testes de Penetração (Pen-Testing)**: Identificação de vulnerabilidades em sistemas e redes.
-- **Redes e Firewall**: Proteção e monitoramento de tráfego de rede, configurando firewalls e VPNs.
-- **OWASP Top 10**: Foco em mitigação de vulnerabilidades mais comuns em aplicativos web.
-- **Segurança de API**: Proteção de APIs contra ataques como injeção de SQL, XSS e CSRF.
-
----
-
-<h2 align="center">📚 Projetos Pessoais</h2>
-
-- **API E CRIAÇÃO DE CHAT ANÔNIMO P2P com TLS(EM DESENVOLVIMENTO)**: Implementei um sistema de comunicação anônima peer-to-peer (P2P) com interface interativa em terminal utilizando a biblioteca gocui, suporte a criptografia ponta a ponta (E2EE) com TLS, autenticação obrigatória por senha e descoberta automática de peers via UDP broadcast. O projeto foi estruturado com arquitetura modular e inclui recursos como reconexão automática, envio seguro de arquivos e comandos interativos, visando estudar técnicas de segurança, resiliência em redes descentralizadas e interação em tempo real via terminal.
-
-
----
-
-<h2 align="center">📫 Vamos Conectar?</h2>
-
-- [GitHub](https://github.com/rafaelsanoli)
-- 📧 **Email**: rafael112.soliveira@gmail.com
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rafaelsanoli&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
