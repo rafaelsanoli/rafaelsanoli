@@ -74,7 +74,7 @@
 ### 📫 Contact / Contato
 
 - **Email**: [rafael112.soliveira@gmail.com](mailto:rafael112.soliveira@gmail.com)
-- **GitHub**: [github.com/rafaelsanoli](https://github.com/rafaelsanoli)
+- **Linkedin**: [linkedin.com/in/rafaelsanoli](https://linkedin.com/in/rafaelsanoli)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rafaelsanoli&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
