@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
 **Backend Development / Desenvolvimento Backend:**
@@ -32,9 +33,9 @@
   <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
 </p>
 
-- Secure Coding / Codificação Segura
-- API Security / Segurança de APIs (OAuth2, JWT)
-- Penetration Testing / Testes de Invasão
+- Secure Coding / Codificação Segura  
+- API Security / Segurança de APIs (OAuth2, JWT)  
+- Penetration Testing / Testes de Invasão  
 - Network Security / Segurança de Redes
 
 ---
@@ -68,6 +69,26 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go" alt="Go"/>
   <img src="https://img.shields.io/badge/TLS-3DDC84?style=flat&logo=letsencrypt" alt="TLS"/>
 </p>
+
+---
+
+#### [Magician Automation Tool](https://github.com/rafaelsanoli/magician-automation-tool)
+**EN**: Modular automation tool for web, desktop, and email. Define your own workflows using JSON and automate repetitive tasks with ease.  
+**PT**: Ferramenta de automação modular para web, desktop e e-mail. Defina seus próprios fluxos com JSON e automatize tarefas repetitivas com facilidade.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/Automation-00BFFF?style=flat" alt="Automation"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="Selenium"/>
+</p>
+
+**Key Features / Principais Recursos**:
+- 🧠 **EN**: JSON workflow engine | **PT**: Engine de workflows em JSON  
+- 🌐 **EN**: Web automation (Selenium) | **PT**: Automação Web (Selenium)  
+- 🖥️ **EN**: Desktop automation (pyautogui/OpenCV) | **PT**: Automação Desktop (pyautogui/OpenCV)  
+- ✉️ **EN**: Email automation (SMTP/IMAP) | **PT**: Automação de E-mails (SMTP/IMAP)  
+- 📆 **EN**: Task scheduling with `schedule` | **PT**: Agendamento com `schedule`  
+- 💾 **EN**: Embedded SQLite storage | **PT**: Banco de dados embutido (SQLite)  
 
 ---
 
