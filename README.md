@@ -23,7 +23,7 @@
 
 **Backend Development / Desenvolvimento Backend:**
 - RESTful APIs & Microservices / APIs RESTful e Microsserviços
-- Database Systems / Bancos de Dados (PostgresSQL/SQL/NoSQL)
+- Database Systems / Bancos de Dados (PostgreSQL/SQL/NoSQL)
 
 **Cybersecurity / Segurança Cibernética:**
 <p>
