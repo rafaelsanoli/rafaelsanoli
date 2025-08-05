@@ -1,5 +1,5 @@
-<h1 align="center">Rafael Oliveira</h1>
-<h3 align="center">Desenvolvedor Backend | Cibersegurança<br>Backend Developer | Cybersecurity </h3>
+<h1 align="center">Rafael Santos Oliveira</h1>
+<h3 align="center">Software Engineer | Cybersecurity </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rafaelsanoli" target="blank">
@@ -23,7 +23,7 @@
 
 **Backend Development / Desenvolvimento Backend:**
 - RESTful APIs & Microservices / APIs RESTful e Microsserviços
-- Database Systems / Bancos de Dados (SQL/NoSQL)
+- Database Systems / Bancos de Dados (PostgresSQL/SQL/NoSQL)
 
 **Cybersecurity / Segurança Cibernética:**
 <p>
@@ -60,7 +60,7 @@
 
 ---
 
-#### [P2P Secure Chat with TLS / Chat Seguro P2P com TLS](https://github.com/yourrepo)
+#### [P2P Secure Chat with TLS / Chat Seguro P2P com TLS](https://github.com/rafaelsanoli/magician)
 **EN**: Anonymous P2P communication system with E2EE encryption and TLS  
 **PT**: Sistema de comunicação P2P anônimo com criptografia ponta-a-ponta e TLS  
 
