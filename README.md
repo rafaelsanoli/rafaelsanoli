@@ -1,5 +1,5 @@
 <h1 align="center">Rafael Santos Oliveira</h1>
-<h3 align="center">Software Engineer | Appsec </h3>
+<h3 align="center">Software Engineer | AppSec | DBA & Data Analysis</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rafaelsanoli" target="blank">
@@ -35,11 +35,62 @@
 - Secure Coding / Codificação Segura  
 - API Security / Segurança de APIs (OAuth2, JWT)  
 - Penetration Testing / Testes de Invasão  
-- Network Security / Segurança de Redes
+- Network Security / Segurança de Redes  
+
+**Database Administration & Data Analysis / Administração de Banco de Dados e Análise de Dados:**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" alt="Kibana"/>
+  <img src="https://img.shields.io/badge/Filebeat-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="Filebeat"/>
+  <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="Logstash"/>
+</p>
+
+- Backup & Recovery  
+- Indexing & Query Tuning / Otimização de Consultas  
+- Monitoramento de desempenho (Prometheus/Grafana)  
+- Centralização de logs (Elastic Stack)  
+- Análise de dados e relatórios SQL  
 
 ---
 
 ### 🔭 Featured Projects / Projetos Destacados
+
+#### [MonitoramentoElasticSearch](https://github.com/rafaelsanoli/MonitoramentoElasticSearch)
+**EN**: Centralized logging platform for PostgreSQL instances using Filebeat → Elasticsearch → Kibana, enabling real-time searches and analytics.  
+**PT**: Plataforma de centralização de logs para instâncias PostgreSQL usando Filebeat → Elasticsearch → Kibana, permitindo buscas e análises em tempo real.  
+
+<p>
+  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat&logo=elasticsearch" alt="Elasticsearch"/>
+  <img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana" alt="Kibana"/>
+  <img src="https://img.shields.io/badge/Filebeat-005571?style=flat&logo=elastic" alt="Filebeat"/>
+</p>
+
+**Key Features / Principais Recursos**:
+- 📊 **EN**: Real-time centralized logging | **PT**: Centralização de logs em tempo real  
+- 🔍 **EN**: Unified search across databases | **PT**: Busca unificada em todos os bancos  
+- ⚡ **EN**: ILM policies for log retention | **PT**: Políticas ILM para retenção de logs  
+
+---
+
+#### [MonitoramentoTOPOCART](https://github.com/rafaelsanoli/MonitoramentoTOPOCART)
+**EN**: Database and infrastructure monitoring using PostgreSQL Exporter, Prometheus, Grafana, and Alertmanager.  
+**PT**: Monitoramento de banco de dados e infraestrutura usando PostgreSQL Exporter, Prometheus, Grafana e Alertmanager.  
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus" alt="Prometheus"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana" alt="Grafana"/>
+</p>
+
+**Key Features / Principais Recursos**:
+- 📈 **EN**: Real-time DB performance metrics | **PT**: Métricas de desempenho do BD em tempo real  
+- 📢 **EN**: Alerts for critical events | **PT**: Alertas para eventos críticos  
+- 🔎 **EN**: Query performance analysis | **PT**: Análise de desempenho de consultas  
+
+---
 
 #### [Magician Security Analyzer](https://github.com/rafaelsanoli/magician-security-analyzer)
 **EN**: Automated security auditing platform for code repositories with AI-powered analysis, auto-fixes, and visual reports  
@@ -52,11 +103,11 @@
 </p>
 
 **Key Features / Principais Recursos**:
-- ✅ **EN**: Code scanning (Semgrep/GoSec) | **PT**: Análise de código (Semgrep/GoSec)
-- 🔐 **EN**: Secrets detection (Gitleaks) | **PT**: Detecção de segredos (Gitleaks)
-- 🐳 **EN**: Dockerfile security audit | **PT**: Auditoria de segurança em Dockerfiles
-- 🤖 **EN**: AI-powered vulnerability suggestions | **PT**: Sugestões de vulnerabilidades por IA
-- 🔧 **EN**: Automatic fixes & PR generation | **PT**: Correções automáticas e geração de PRs
+- ✅ **EN**: Code scanning (Semgrep/GoSec) | **PT**: Análise de código (Semgrep/GoSec)  
+- 🔐 **EN**: Secrets detection (Gitleaks) | **PT**: Detecção de segredos (Gitleaks)  
+- 🐳 **EN**: Dockerfile security audit | **PT**: Auditoria de segurança em Dockerfiles  
+- 🤖 **EN**: AI-powered vulnerability suggestions | **PT**: Sugestões de vulnerabilidades por IA  
+- 🔧 **EN**: Automatic fixes & PR generation | **PT**: Correções automáticas e geração de PRs  
 
 ---
 
@@ -93,7 +144,7 @@
 
 ### 📫 Contact / Contato
 
-- **Email**: [rafael112.soliveira@gmail.com](mailto:rafael112.soliveira@gmail.com)
+- **Email**: [rafael112.soliveira@gmail.com](mailto:rafael112.soliveira@gmail.com)  
 - **Linkedin**: [linkedin.com/in/rafaelsanoli](https://linkedin.com/in/rafaelsanoli)
 
 <p align="center">
