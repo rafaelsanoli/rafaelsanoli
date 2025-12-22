@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header animado com efeito de digitação -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=100&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+Rafael+Oliveira;Software+Engineer+%7C+Fullstack+%7C+Cloud" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com? font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=100&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+Rafael+Oliveira;Software+Engineer+%7C+Fullstack+%7C+Cloud" alt="Typing SVG" />
 
 <!-- Banner personalizado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rafael%20Santos%20Oliveira&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Building%20scalable%20solutions&descAlignY=52&descSize=18" width="100%"/>
@@ -15,7 +15,7 @@
 
 <!-- Links Sociais -->
 <p>
-  <a href="https://rafaelsanoli.vercel. app" target="_blank">
+  <a href="https://rafaelsanoli.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-6C63FF?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/rafaelsanoli" target="_blank">
@@ -60,10 +60,6 @@ const rafael:  SoftwareEngineer = {
     objetivo: "Construir software escalável que gere impacto real 🚀"
 };
 ```
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelsanoli&custom_title=Contribuições%20no%20GitHub&bg_color=0d1117&color=6c63ff&line=6c63ff&point=ffffff&area=true&hide_border=true" width="100%"/>
-</div>
 
 ---
 
@@ -148,6 +144,7 @@ const rafael:  SoftwareEngineer = {
 <td width="60%">
 
 **📋 Descrição:**
+
 Sistema MVP desenvolvido do zero para digitalização de prontuários, agendamentos e gestão de dados sensíveis em clínicas médicas.
 
 **🎯 Principais Entregas:**
@@ -163,7 +160,7 @@ Sistema MVP desenvolvido do zero para digitalização de prontuários, agendamen
 **🛠️ Stack Utilizada:**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000? style=for-the-badge&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6? style=for-the-badge&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -184,6 +181,7 @@ Sistema MVP desenvolvido do zero para digitalização de prontuários, agendamen
 <td width="60%">
 
 **📋 Descrição:**
+
 Cliente de chat P2P desenvolvido do zero em Go, utilizando conceitos avançados de concorrência e protocolos de rede.
 
 **🎯 Principais Entregas:**
@@ -216,6 +214,7 @@ Cliente de chat P2P desenvolvido do zero em Go, utilizando conceitos avançados 
 <td width="60%">
 
 **📋 Descrição:**
+
 Plataforma de automação extensível para web, desktop e email.  Define workflows através de JSON e automatiza tarefas repetitivas. 
 
 **🎯 Principais Entregas:**
@@ -247,7 +246,7 @@ Plataforma de automação extensível para web, desktop e email.  Define workflo
 <div align="center">
 
 | Projeto | Descrição | Tecnologias |
-|: -------:|:---------:|:-----------:|
+|---------|-----------|-------------|
 | [🏧 C-ATM](https://github.com/rafaelsanoli/C-ATM) | Sistema de Caixa Eletrônico em C | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) |
 | [📈 MonitoramentoGrafanaPrometheus](https://github.com/rafaelsanoli/MonitoramentoGrafanaPrometheus) | Stack de Monitoramento | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) |
 | [🔍 MonitoramentoElasticSearch](https://github.com/rafaelsanoli/MonitoramentoElasticSearch) | Centralização de Logs | ![Elasticsearch](https://img.shields.io/badge/Elastic-005571?style=flat&logo=elasticsearch&logoColor=white) |
@@ -263,8 +262,10 @@ Plataforma de automação extensível para web, desktop e email.  Define workflo
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelsanoli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=ffffff&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsanoli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=ffffff"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com? user=rafaelsanoli&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="700"/>
+</div>
 
+<div align="center">
+<img src="https://streak-stats.demolab.com? user=rafaelsanoli&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="700"/>
 </div>
 
 ---
@@ -274,7 +275,7 @@ Plataforma de automação extensível para web, desktop e email.  Define workflo
 <div align="center">
 
 | 💡 | Competência | Descrição |
-|:--:|:-----------:|: ----------|
+|: --:|:-----------:|: ----------|
 | 🏗️ | **Fullstack Development** | React, Next.js, Node.js, Express - Do frontend ao backend |
 | ☁️ | **Cloud Computing** | Experiência prática com AWS (EC2, RDS, S3) e Docker |
 | 🗄️ | **Databases** | PostgreSQL, MySQL, MongoDB - Design e otimização |
@@ -316,8 +317,8 @@ Plataforma de automação extensível para web, desktop e email.  Define workflo
 
 <br/><br/>
 
-| 📬 **Contato** | 🔗 **Link** |
-|:---:|:---:|
+| 📬 Contato | 🔗 Link |
+|:----------:|:-------:|
 | 📧 Email | [rafaelsanoli@icloud.com](mailto:rafaelsanoli@icloud.com) |
 | 💼 LinkedIn | [linkedin.com/in/rafaelsanoli](https://linkedin.com/in/rafaelsanoli) |
 | 🌐 Portfolio | [rafaelsanoli.vercel.app](https://rafaelsanoli.vercel.app) |
