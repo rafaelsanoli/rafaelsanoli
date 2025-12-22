@@ -9,13 +9,13 @@
 <!-- Badges de Status -->
 <p>
   <img src="https://img.shields.io/badge/📍_Brasília,_DF-Brasil-green?style=for-the-badge" alt="Location"/>
-  <img src="https://img.shields.io/badge/🎓_Eng._Software-UNICEPLAC_2028-blue?style=for-the-badge" alt="Education"/>
+  <img src="https://img.shields.io/badge/🎓_Eng._Software-UNICEPLAC-blue?style=for-the-badge" alt="Education"/>
   <img src="https://img.shields.io/badge/💼_Software_Engineer-Open_to_Work-6C63FF?style=for-the-badge" alt="Status"/>
 </p>
 
 <!-- Links Sociais -->
 <p>
-  <a href="https://rafaelsanoli.vercel.app" target="_blank">
+  <a href="https://rafaelsanoli.vercel. app" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-6C63FF?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/rafaelsanoli" target="_blank">
@@ -165,7 +165,7 @@ Sistema MVP desenvolvido do zero para digitalização de prontuários, agendamen
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6? style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -198,7 +198,7 @@ Cliente de chat P2P desenvolvido do zero em Go, utilizando conceitos avançados 
 
 **🛠️ Stack Utilizada:**
 
-![Go](https://img.shields.io/badge/Go-00ADD8? style=for-the-badge&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TCP/UDP](https://img.shields.io/badge/TCP/UDP-4B32C3?style=for-the-badge&logo=cisco&logoColor=white)
 ![TLS](https://img.shields.io/badge/TLS-3DDC84?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
@@ -260,7 +260,8 @@ Plataforma de automação extensível para web, desktop e email.  Define workflo
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats. vercel.app/api?username=rafaelsanoli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=ffffff&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelsanoli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=ffffff&count_private=true"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsanoli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=ffffff"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com? user=rafaelsanoli&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="700"/>
@@ -274,7 +275,7 @@ Plataforma de automação extensível para web, desktop e email.  Define workflo
 <div align="center">
 
 | 💡 | Competência | Descrição |
-|: --:|:-----------:|: ----------|
+|:--:|:-----------:|: ----------|
 | 🏗️ | **Fullstack Development** | React, Next.js, Node.js, Express - Do frontend ao backend |
 | ☁️ | **Cloud Computing** | Experiência prática com AWS (EC2, RDS, S3) e Docker |
 | 🗄️ | **Databases** | PostgreSQL, MySQL, MongoDB - Design e otimização |
@@ -284,27 +285,6 @@ Plataforma de automação extensível para web, desktop e email.  Define workflo
 
 </div>
 
----
-
-## 📚 Formação
-
-<div align="center">
-
-```
-🎓 Bacharelado em Engenharia de Software
-   Centro Universitário UNICEPLAC
-   📅 Previsão de Conclusão: Junho 2028
-   
-   📖 Disciplinas Relevantes:
-   ├── Estrutura de Dados e Algoritmos
-   ├── Arquitetura de Software
-   ├── Banco de Dados
-   ├── Desenvolvimento Web
-   ├── Testes e Qualidade de Software
-   └── Programação Orientada a Objetos
-```
-
-</div>
 
 ---
 
@@ -312,7 +292,7 @@ Plataforma de automação extensível para web, desktop e email.  Define workflo
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab. com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Buscando+oportunidades+como+Software+Engineer! ;Vamos+construir+algo+incr%C3%ADvel+juntos+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Buscando+oportunidades+como+Software+Engineer! ;Vamos+construir+algo+incr%C3%ADvel+juntos+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/><br/>
 
