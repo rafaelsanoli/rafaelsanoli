@@ -1,195 +1,307 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header"/>
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3B82F6,100:8B5CF6&height=200&section=header&text=Rafael%20Oliveira&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20•%20Fullstack%20Developer%20•%20Cloud&descSize=16&descAlignY=55"/>
+
+<!-- ANIMATED TYPING -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Ol%C3%A1! +Eu+sou+o+Rafael+%F0%9F%91%8B;Desenvolvedor+Fullstack;Apaixonado+por+tecnologia;Construindo+o+futuro+com+c%C3%B3digo" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- SOCIAL BADGES ANIMATED -->
+<a href="https://rafaelsanoli.vercel. app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://linkedin.com/in/rafaelsanoli" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:rafaelsanoli@icloud.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://wa.me/5561981445920" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+
+<br/><br/>
+
+<!-- PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=rafaelsanoli&color=6C63FF&style=for-the-badge&label=VISITORS" alt="Profile Views"/>
+
+</div>
 
 <br/>
 
-# Hey, I'm Rafael 👋
+<!-- ABOUT SECTION WITH IMAGE -->
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding"/>
 
-### Software Engineer | Fullstack Developer | Cloud Enthusiast
+## 🚀 Sobre Mim
 
-<br/>
+```javascript
+const rafael = {
+  localização: "Brasília, DF 🇧🇷",
+  formação: "Engenharia de Software @ UNICEPLAC",
+  trabalho: "IT Intern @ Banco Regional de Brasília",
+  
+  tecnologias: {
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind"],
+    backend: ["Node.js", "Express", "Go", "FastAPI"],
+    database: ["PostgreSQL", "MongoDB", "MySQL"],
+    cloud: ["AWS", "Docker", "Vercel"]
+  },
+  
+  atualmente: "Buscando oportunidades como Software Engineer",
+  
+  funFact: "Acredito que código bem escrito é uma forma de arte 🎨"
+};
+```
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0d1117?style=flat&logo=vercel&logoColor=white)](https://rafaelsanoli.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/rafaelsanoli)
-[![Email](https://img.shields.io/badge/-Email-0d1117?style=flat&logo=gmail&logoColor=EA4335)](mailto:rafaelsanoli@icloud.com)
+<br clear="both"/>
 
-<br/>
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=rafaelsanoli&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsanoli&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="165"/>
+<!-- TECH STACK SECTION -->
+## 💻 Tech Stack
+
+<div align="center">
+
+<!-- ROW 1 - LANGUAGES -->
+<img src="https://skillicons.dev/icons?i=js,ts,python,go,java,c&theme=dark" alt="Languages"/>
+
+<br/><br/>
+
+<!-- ROW 2 - FRONTEND -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&theme=dark" alt="Frontend"/>
+
+<br/><br/>
+
+<!-- ROW 3 - BACKEND & DB -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,mysql&theme=dark" alt="Backend"/>
+
+<br/><br/>
+
+<!-- ROW 4 - TOOLS -->
+<img src="https://skillicons.dev/icons?i=aws,docker,git,linux,figma,vscode&theme=dark" alt="Tools"/>
 
 </div>
 
 ---
 
-<br/>
-
-## About
-
-```
-📍 Brasília, DF - Brazil
-🎓 Software Engineering @ UNICEPLAC (2028)
-💼 IT Intern @ Banco Regional de Brasília (BRB)
-🚀 Building scalable solutions that make an impact
-```
-
-<br/>
-
-## Tech Stack
+<!-- GITHUB STATS -->
+## 📊 GitHub Stats
 
 <div align="center">
 
-**Languages**
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rafaelsanoli&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&ring_color=6C63FF&count_private=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.vercel.app? user=rafaelsanoli&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak"/>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=flat&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-0d1117?style=flat&logo=python)
-![Go](https://img.shields.io/badge/-Go-0d1117?style=flat&logo=go)
-![Java](https://img.shields.io/badge/-Java-0d1117?style=flat&logo=openjdk)
-![C](https://img.shields.io/badge/-C-0d1117?style=flat&logo=c)
+<br/><br/>
 
-**Frontend**
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsanoli&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=ffffff&langs_count=6" alt="Top Languages"/>
 
-![React](https://img.shields.io/badge/-React-0d1117?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-0d1117?style=flat&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0d1117?style=flat&logo=tailwindcss)
-![Vite](https://img.shields.io/badge/-Vite-0d1117?style=flat&logo=vite)
+</div>
 
-**Backend & Database**
+---
 
-![Node.js](https://img.shields.io/badge/-Node.js-0d1117?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-0d1117?style=flat&logo=express)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117? style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-0d1117?style=flat&logo=mongodb)
+<!-- FEATURED PROJECTS -->
+## 🏆 Projetos em Destaque
 
-**Cloud & Tools**
+<div align="center">
 
-![AWS](https://img.shields.io/badge/-AWS-0d1117?style=flat&logo=amazonaws)
-![Docker](https://img.shields.io/badge/-Docker-0d1117?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-0d1117?style=flat&logo=git)
-![Figma](https://img.shields.io/badge/-Figma-0d1117?style=flat&logo=figma)
+<a href="https://github.com/rafaelsanoli/magician">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelsanoli&repo=magician&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff" alt="Magician"/>
+</a>
+<a href="https://github.com/rafaelsanoli/C-ATM">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelsanoli&repo=C-ATM&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff" alt="C-ATM"/>
+</a>
 
 </div>
 
 <br/>
 
-## Featured Projects
+<!-- PROJECT DETAILS -->
+<details>
+<summary><b>🏥 MODULA - Plataforma de Gestão de Clínicas</b></summary>
+<br/>
+
+> Sistema MVP Fullstack para gestão médica com foco em segurança e usabilidade
+
+**✨ Principais Features:**
+- 🔐 Autenticação JWT com controle de acesso baseado em roles
+- 📊 Dashboard interativo com visualização de dados (Recharts)
+- ☁️ Deploy completo em AWS (EC2, RDS, S3)
+- 🎨 Interface moderna com React + TailwindCSS
+
+**🛠️ Stack:** `Node.js` `Express` `React` `TypeScript` `PostgreSQL` `AWS`
+
+</details>
+
+<details>
+<summary><b>💬 MAGICIAN CHAT - P2P com Criptografia</b></summary>
+<br/>
+
+> Sistema de chat peer-to-peer com criptografia TLS e suporte a Tor
+
+**✨ Principais Features:**
+- 🔗 Arquitetura P2P com reconexão automática
+- 🔐 Criptografia TLS em todas as conexões
+- 📡 Descoberta automática de peers via UDP broadcast
+- 🧵 Concorrência avançada com Goroutines
+
+**🛠️ Stack:** `Go` `TLS` `TCP/UDP` `Tor` `Cryptography`
+
+</details>
+
+<details>
+<summary><b>🤖 AUTOMATION TOOL - Automação Inteligente</b></summary>
+<br/>
+
+> Plataforma modular de automação para web, desktop e email
+
+**✨ Principais Features:**
+- 🧠 Engine de workflows baseada em JSON
+- 🌐 Automação web com Selenium
+- 🖥️ Automação desktop com PyAutoGUI + OpenCV
+- 📅 Agendamento de tarefas integrado
+
+**🛠️ Stack:** `Python` `Selenium` `SQLite` `OpenCV` `PyAutoGUI`
+
+</details>
+
+---
+
+<!-- EXPERIENCE SECTION -->
+## 💼 Experiência
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### MODULA
-**Healthcare Management Platform**
-
-Full-stack MVP for clinic management with patient records, scheduling, and secure data handling.
-
-`React` `Node.js` `TypeScript` `PostgreSQL` `AWS`
-
-- JWT authentication with role-based access
-- Dashboard with data visualization
-- Cloud deployment (EC2, RDS, S3)
-
+<td width="100">
+<img src="https://img.shields.io/badge/BRB-0D4A8C?style=for-the-badge" alt="BRB"/>
 </td>
-<td width="50%" valign="top">
+<td>
 
-### Magician Chat
-**P2P Encrypted Communication**
+**Banco Regional de Brasília (BRB)** — Estagiário de TI
 
-Peer-to-peer chat system built from scratch in Go with TLS encryption and automatic peer discovery.
+`Setembro 2025 - Presente` • Brasília, DF
 
-`Go` `TCP/UDP` `TLS` `Cryptography`
-
-- Concurrent architecture with goroutines
-- UDP broadcast peer discovery
-- End-to-end encryption
+- 🤖 Desenvolvimento de solução de IA para suporte ao cliente
+- 🎨 Design de fluxos UX no Figma
+- 🔍 Análise e diagnóstico em ambiente de produção bancário
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### Automation Tool
-**Workflow Automation Platform**
-
-Modular automation tool for web, desktop, and email tasks using JSON-based workflow definitions.
-
-`Python` `Selenium` `SQLite` `OpenCV`
-
-- JSON workflow engine
-- Web, desktop & email automation
-- Built-in task scheduler
-
+<td width="100">
+<img src="https://img.shields.io/badge/TOPOCART-2E7D32?style=for-the-badge" alt="Topocart"/>
 </td>
-<td width="50%" valign="top">
+<td>
 
-### C-ATM
-**ATM Simulation System**
+**Topocart Topografia e Engenharia** — Estagiário de TI
 
-Complete ATM simulation developed in C for academic purposes, featuring banking operations and data validation.
+`Julho 2025 - Setembro 2025` • Brasília, DF
 
-`C` `Data Structures` `Algorithms`
-
-- Full banking operations
-- Input validation
-- Academic project @ UNICEPLAC
+- 📊 Dashboards estratégicos em Power BI
+- 🔄 Pipelines ETL com Pentaho
+- 📈 Stack de monitoramento (Prometheus/Grafana/ELK)
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-## Experience
-
-**Banco Regional de Brasília (BRB)** — IT Intern  
-`Sep 2025 - Present`
-
-> Developing AI-powered customer support solutions, designing UX flows in Figma, and working with production banking systems.
-
-**Topocart Topografia e Engenharia** — IT Intern  
-`Jul 2025 - Sep 2025`
-
-> Built monitoring stacks with Prometheus/Grafana, ETL pipelines with Pentaho, and Power BI dashboards for strategic decisions. 
-
-<br/>
-
-## What I Bring
-
-| | |
-|: --|:--|
-| **Fullstack Development** | React, Next.js, Node.js, Express — end-to-end delivery |
-| **Cloud Infrastructure** | AWS (EC2, RDS, S3), Docker — scalable architectures |
-| **Database Design** | PostgreSQL, MySQL, MongoDB — optimization & administration |
-| **Data Engineering** | ETL pipelines, Power BI — turning data into insights |
-| **Production Experience** | Banking environment — high-criticality systems |
-
-<br/>
-
-## Let's Connect
+<!-- EDUCATION -->
+## 🎓 Formação
 
 <div align="center">
 
-I'm currently looking for **Software Engineer** opportunities. 
+<img src="https://img.shields.io/badge/UNICEPLAC-Engenharia_de_Software-6C63FF?style=for-the-badge" alt="UNICEPLAC"/>
 
-Let's build something great together. 
+<br/><br/>
+
+**Centro Universitário do Planalto Central Apparecido dos Santos**
+
+📅 Previsão de Conclusão: **Junho 2028**
 
 <br/>
 
-**rafaelsanoli@icloud. com** · **+55 61 98144-5920**
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-rafaelsanoli.vercel. app-58a6ff?style=flat-square)](https://rafaelsanoli.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rafaelsanoli-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/rafaelsanoli)
+`Estrutura de Dados` `Arquitetura de Software` `Banco de Dados` `Desenvolvimento Web` `POO`
 
 </div>
 
 ---
 
+<!-- SKILLS HIGHLIGHT -->
+## ⚡ Diferenciais
+
 <div align="center">
 
-<sub>Brasília, Brazil · Open to remote opportunities worldwide</sub>
+| 🏗️ Fullstack | ☁️ Cloud | 🗄️ Database | 📊 Data | 🎨 UI/UX |
+|: ---:|:---:|:---:|: ---:|:---:|
+| React, Next.js | AWS (EC2, RDS, S3) | PostgreSQL | ETL Pipelines | Figma |
+| Node.js, Express | Docker | MongoDB | Power BI | Design Systems |
+| TypeScript, Go | Vercel | MySQL | Data Analysis | Prototipação |
+
+</div>
+
+---
+
+<!-- CONTACT SECTION -->
+## 📫 Vamos Conversar? 
+
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab. com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&repeat=true&width=500&lines=Aberto+a+novas+oportunidades! ;Vamos+construir+algo+incr%C3%ADvel+juntos!" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<a href="mailto:rafaelsanoli@icloud.com">
+  <img src="https://img.shields.io/badge/rafaelsanoli@icloud. com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://linkedin.com/in/rafaelsanoli">
+  <img src="https://img.shields.io/badge/linkedin. com/in/rafaelsanoli-0A66C2? style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://rafaelsanoli.vercel. app">
+  <img src="https://img.shields.io/badge/rafaelsanoli. vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+<br/><br/>
+
+**📱 +55 61 98144-5920**
+
+</div>
+
+---
+
+<!-- SNAKE ANIMATION -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelsanoli/rafaelsanoli/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafaelsanoli/rafaelsanoli/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rafaelsanoli/rafaelsanoli/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3B82F6,100:8B5CF6&height=120&section=footer"/>
+
+<br/>
+
+**⭐ Se você gostou do meu perfil, considere dar uma estrela nos repositórios!**
+
+<br/>
+
+<sub>Feito com 💜 por Rafael Oliveira</sub>
 
 </div>
