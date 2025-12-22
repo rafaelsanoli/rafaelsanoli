@@ -1,147 +1,317 @@
-<h1 align="center">Rafael Santos Oliveira</h1>
-<h3 align="center">Software Engineer | AppSec | DBA & Data Analysis</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rafaelsanoli" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<!-- Header animado com efeito de digitação -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=100&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+Rafael+Oliveira;Software+Engineer+%7C+AppSec+%7C+Cloud+%26+Data" alt="Typing SVG" />
+
+<!-- Banner personalizado -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rafael%20Santos%20Oliveira&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Construindo%20soluções%20que%20fazem%20a%20diferença&descAlignY=52&descSize=18" width="100%"/>
+
+<!-- Badges de Status -->
+<p>
+  <img src="https://img.shields.io/badge/📍_Brasília,_DF-Brasil-green?style=for-the-badge" alt="Location"/>
+  <img src="https://img.shields.io/badge/🎓_Eng._Software-UNICEPLAC-blue?style=for-the-badge" alt="Education"/>
+  <img src="https://img.shields.io/badge/💼_IT_Intern-BRB_Bank-orange?style=for-the-badge" alt="Current Job"/>
+</p>
+
+<!-- Links Sociais com animação -->
+<p>
+  <a href="https://rafaelsanoli.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-6C63FF?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:rafael112.soliveira@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://www.linkedin.com/in/rafaelsanoli" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rafaelsanoli@icloud.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/rafaelsanoli">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=rafaelsanoli&label=Visitantes&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
+
+</div>
 
 ---
 
-### 🛠️ Technical Stack / Skills
+## 🎯 Sobre Mim
 
-**Core Languages:**
+```typescript
+const rafael = {
+    nome: "Rafael Santos Oliveira",
+    localização: "Brasília, DF - Brasil",
+    formação: "Bacharelado em Engenharia de Software @ UNICEPLAC (2028)",
+    
+    experiência: [
+        "🏦 Estagiário de TI @ Banco Regional de Brasília (BRB) - Atual",
+        "🗺️ Estagiário de TI @ Topocart Topografia e Engenharia"
+    ],
+    
+    certificações: ["Google Cybersecurity Professional"],
+    
+    interesses: ["AppSec", "Cloud Computing", "Observabilidade", "IA"],
+    
+    fato_curioso: "Transformo logs em insights e vulnerabilidades em segurança 🔐"
+};
+```
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelsanoli&custom_title=Contribuições%20no%20GitHub&bg_color=0d1117&color=6c63ff&line=6c63ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 💼 Experiência Profissional
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏦 Banco Regional de Brasília (BRB)
+**Estagiário de TI** | Set 2025 - Presente
+
+<details>
+<summary>📋 Ver detalhes</summary>
+
+- 🔍 **Root Cause Analysis (RCA)** em ambiente de produção bancário de alta criticidade
+- 🤖 Desenvolvimento de solução de **IA para suporte ao cliente**
+- 🎨 Modelagem de **fluxos UX no Figma** para novas funcionalidades
+- 📊 Implementação de processo de **triagem rápida** para incidentes
+
+</details>
+
+</td>
+<td width="50%">
+
+### 🗺️ Topocart Topografia e Engenharia
+**Estagiário de TI** | Jul 2025 - Set 2025
+
+<details>
+<summary>📋 Ver detalhes</summary>
+
+- 📈 Ecossistema de **observabilidade** com Prometheus, Grafana e PgExporter
+- 📝 **ELK Stack** para centralização e análise de logs
+- 🗄️ **Administração de Bancos de Dados** para projetos de geoprocessamento 3D
+- 📊 **Dashboards em Power BI** para tomada de decisões estratégicas
+- 🔄 **Pipelines ETL** com Pentaho para sanitização de dados geográficos
+
+</details>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 👨‍💻 Linguagens
 <p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=go,python,js,ts,java,c,html,css" />
 </p>
 
-**Backend Development:**
-- RESTful APIs & Microservices  
-- Database Systems (PostgreSQL/SQL/NoSQL)
-
-**Cybersecurity:**
+### 🚀 Frameworks & Libraries
 <p>
-  <img src="https://img.shields.io/badge/TLS-3DDC84?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="TLS"/>
-  <img src="https://img.shields.io/badge/Cryptography-000000?style=for-the-badge&logo=keybase&logoColor=white" alt="Cryptography"/>
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,vite,fastapi" />
 </p>
 
-- Secure Coding  
-- API Security (OAuth2, JWT)  
-- Penetration Testing  
-- Network Security  
-
-**Database Administration & Data Analysis:**
+### ☁️ Cloud & DevOps
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,linux,bash" />
+</p>
+
+### 🗄️ Databases & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch" />
+</p>
+
+### 🔒 Security & Monitoring
+<p>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
   <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" alt="Kibana"/>
-  <img src="https://img.shields.io/badge/Filebeat-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="Filebeat"/>
-  <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="Logstash"/>
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
+  <img src="https://img.shields.io/badge/Semgrep-4B32C3?style=for-the-badge&logo=semgrep&logoColor=white" alt="Semgrep"/>
 </p>
 
-- Backup & Recovery  
-- Indexing & Query Tuning  
-- Performance Monitoring (Prometheus/Grafana)  
-- Log Centralization (Elastic Stack)  
-- Data Analysis & SQL Reporting  
+</div>
 
 ---
 
-### 🔭 Featured Projects
+## 🏆 Projetos em Destaque
 
-#### [MonitoramentoElasticSearch](https://github.com/rafaelsanoli/MonitoramentoElasticSearch)  
-Centralized logging platform for PostgreSQL instances using Filebeat → Elasticsearch → Kibana, enabling real-time searches and analytics.
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat&logo=elasticsearch" alt="Elasticsearch"/>
-  <img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana" alt="Kibana"/>
-  <img src="https://img.shields.io/badge/Filebeat-005571?style=flat&logo=elastic" alt="Filebeat"/>
-</p>
+<a href="https://github.com/rafaelsanoli/magician">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelsanoli&repo=magician&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=ffffff" />
+</a>
+<a href="https://github.com/rafaelsanoli/magician-security-analyzer">
+  <img src="https://github-readme-stats.vercel. app/api/pin/?username=rafaelsanoli&repo=magician-security-analyzer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=ffffff" />
+</a>
 
-**Key Features:**
-- 📊 Real-time centralized logging  
-- 🔍 Unified search across databases  
-- ⚡ ILM policies for log retention  
+</div>
 
----
+### 🔐 MODULA - Plataforma de Gestão de Clínicas
+> *Sistema Fullstack para gestão médica com foco em segurança*
 
-#### [MonitoramentoGrafanaPrometheus](https://github.com/rafaelsanoli/MonitoramentoGrafanaPrometheus)  
-Database and infrastructure monitoring using PostgreSQL Exporter, Prometheus, Grafana, and Alertmanager.
+<table>
+<tr>
+<td>
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus" alt="Prometheus"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana" alt="Grafana"/>
-</p>
+**🎯 Highlights:**
+- 🏗️ Arquitetura MVP Fullstack do zero
+- 🔒 API RESTful com autenticação JWT + Bcrypt
+- 👥 Controle de acesso baseado em roles (RBAC)
+- ☁️ Deploy em AWS (EC2, RDS, S3)
 
-**Key Features:**
-- 📈 Real-time DB performance metrics  
-- 📢 Alerts for critical events  
-- 🔎 Query performance analysis  
+</td>
+<td>
 
----
+**🛠️ Stack:**
 
-#### [Magician Security Analyzer](https://github.com/rafaelsanoli/magician-security-analyzer)  
-Automated security auditing platform for code repositories with AI-powered analysis, auto-fixes, and visual reports.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go" alt="Go"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" alt="Python"/>
-  <img src="https://img.shields.io/badge/Security-3DDC84?style=flat&logo=owasp" alt="Security"/>
-</p>
-
-**Key Features:**
-- ✅ Code scanning (Semgrep/GoSec)  
-- 🔐 Secrets detection (Gitleaks)  
-- 🐳 Dockerfile security audit  
-- 🤖 AI-powered vulnerability suggestions  
-- 🔧 Automatic fixes & PR generation  
+</td>
+</tr>
+</table>
 
 ---
 
-#### [P2P Secure Chat with TLS](https://github.com/rafaelsanoli/magician)  
-Anonymous P2P communication system with end-to-end encryption and TLS.
+### 💬 MAGICIAN CHAT - P2P com Segurança Criptográfica
+> *Chat anônimo peer-to-peer com criptografia TLS e suporte Tor*
 
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go" alt="Go"/>
-  <img src="https://img.shields.io/badge/TLS-3DDC84?style=flat&logo=letsencrypt" alt="TLS"/>
-</p>
+<table>
+<tr>
+<td>
+
+**🎯 Highlights:**
+- 🔗 Arquitetura P2P com Go (Golang)
+- 🔐 Criptografia TLS em todas as conexões
+- 🧅 Suporte à rede Tor para anonimato
+- 📡 Descoberta automática de peers via UDP
+
+</td>
+<td>
+
+**🛠️ Stack:**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![TLS](https://img.shields.io/badge/TLS-3DDC84?style=flat&logo=letsencrypt&logoColor=white)
+![Tor](https://img.shields.io/badge/Tor-7D4698?style=flat&logo=torproject&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
-#### [Magician Automation Tool](https://github.com/rafaelsanoli/magician-automation-tool)  
-Modular automation tool for web, desktop, and email. Define your own workflows using JSON and automate repetitive tasks with ease.
+### 📊 Ecossistema de Observabilidade
+> *Stack completa de monitoramento e análise de dados*
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" alt="Python"/>
-  <img src="https://img.shields.io/badge/Automation-00BFFF?style=flat" alt="Automation"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="Selenium"/>
-</p>
+<div align="center">
 
-**Key Features:**
-- 🧠 JSON workflow engine  
-- 🌐 Web automation (Selenium)  
-- 🖥️ Desktop automation (pyautogui/OpenCV)  
-- ✉️ Email automation (SMTP/IMAP)  
-- 📆 Task scheduling with schedule  
-- 💾 Embedded SQLite storage  
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| [🔍 MonitoramentoElasticSearch](https://github.com/rafaelsanoli/MonitoramentoElasticSearch) | Centralização de logs PostgreSQL | Elasticsearch, Kibana, Filebeat |
+| [📈 MonitoramentoGrafanaPrometheus](https://github.com/rafaelsanoli/MonitoramentoGrafanaPrometheus) | Métricas de performance em tempo real | Prometheus, Grafana, AlertManager |
+
+</div>
 
 ---
 
-### 📫 Contact
+## 📊 GitHub Analytics
 
-- **Email**: [rafael112.soliveira@gmail.com](mailto:rafael112.soliveira@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/rafaelsanoli](https://linkedin.com/in/rafaelsanoli)
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rafaelsanoli&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api? username=rafaelsanoli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=ffffff&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsanoli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=ffffff"/>
+
+<img src="https://github-readme-streak-stats.herokuapp. com? user=rafaelsanoli&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="700"/>
+
+</div>
+
+---
+
+## 🎓 Certificações
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Google-Cybersecurity_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity"/>
+
+</div>
+
+<details>
+<summary>📜 Competências da Certificação</summary>
+
+- 🛡️ **SIEM & IDS** - Security Information and Event Management
+- 🐧 **Linux & Bash** - Proficiência em shell e automação
+- 🔍 **Root Cause Analysis** - Análise e resposta a incidentes
+- 🐍 **Python Scripting** - Automação de tarefas de segurança
+- 📋 **NIST CSF** - Framework de Cybersecurity e Gerenciamento de Riscos
+- ⚠️ **Threat Detection** - Web Exploits, Engenharia Social, Phishing
+
+</details>
+
+---
+
+## 📈 O Que Me Diferencia
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│   🔐 SEGURANÇA           →  Google Cybersecurity Professional      │
+│                             AppSec, OWASP, Criptografia             │
+│                                                                     │
+│   ☁️ CLOUD & DEVOPS       →  AWS (EC2, RDS, S3), Docker            │
+│                             CI/CD, Infraestrutura como Código       │
+│                                                                     │
+│   📊 OBSERVABILIDADE     →  Prometheus, Grafana, ELK Stack         │
+│                             Métricas, Logs, Alertas                 │
+│                                                                     │
+│   🏦 EXPERIÊNCIA REAL    →  Produção bancária de alta criticidade,  │
+│                             Geoprocessamento 3D, Pipelines ETL      │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 🤝 Vamos Conectar!
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab. com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&repeat=true&width=500&lines=Aberto+a+oportunidades+e+colabora%C3%A7%C3%B5es! ;Vamos+construir+algo+incr%C3%ADvel+juntos+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/>
+
+| 📬 **Contato** | 🔗 **Link** |
+|: ---:|:---:|
+| 📧 Email | [rafaelsanoli@icloud.com](mailto:rafaelsanoli@icloud.com) |
+| 💼 LinkedIn | [linkedin.com/in/rafaelsanoli](https://linkedin.com/in/rafaelsanoli) |
+| 🌐 Portfolio | [rafaelsanoli.vercel. app](https://rafaelsanoli.vercel.app) |
+| 📱 WhatsApp | +55 61 98144-5920 |
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+
+**⭐ Se você gostou, considere dar uma estrela nos projetos! **
+
+*"A melhor maneira de prever o futuro é criá-lo." - Peter Drucker*
+
+</div>
