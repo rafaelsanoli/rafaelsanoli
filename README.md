@@ -15,7 +15,7 @@
 
 <!-- Links Sociais -->
 <p>
-  <a href="https://rafaelsanoli.vercel. app" target="_blank">
+  <a href="https://rafaelsanoli.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-6C63FF?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/rafaelsanoli" target="_blank">
@@ -163,7 +163,7 @@ Sistema MVP desenvolvido do zero para digitalização de prontuários, agendamen
 **🛠️ Stack Utilizada:**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000? style=for-the-badge&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6? style=for-the-badge&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -260,7 +260,7 @@ Plataforma de automação extensível para web, desktop e email.  Define workflo
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelsanoli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=ffffff&count_private=true"/>
+<img height="180em" src="https://github-readme-stats. vercel.app/api?username=rafaelsanoli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=ffffff&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsanoli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=ffffff"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com? user=rafaelsanoli&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="700"/>
@@ -274,7 +274,7 @@ Plataforma de automação extensível para web, desktop e email.  Define workflo
 <div align="center">
 
 | 💡 | Competência | Descrição |
-|:--:|:-----------:|: ----------|
+|: --:|:-----------:|: ----------|
 | 🏗️ | **Fullstack Development** | React, Next.js, Node.js, Express - Do frontend ao backend |
 | ☁️ | **Cloud Computing** | Experiência prática com AWS (EC2, RDS, S3) e Docker |
 | 🗄️ | **Databases** | PostgreSQL, MySQL, MongoDB - Design e otimização |
