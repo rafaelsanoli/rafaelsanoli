@@ -90,11 +90,6 @@ const rafael: SoftwareEngineer = {
 - 🔍 **Auditorias de logs e Root Cause Analysis (RCA)** em ambientes de produção
 - 🐛 **Triagem rápida de problemas** reportados por clientes, identificando falhas do sistema
 
-**DevOps & Infraestrutura:**
-- 📊 **Monitoramento de bancos de dados** com Prometheus, Grafana e PgExporter
-- 📈 **Centralização de logs** com ELK Stack (Elasticsearch + Kibana)
-- 🗄️ **Administração de bancos de dados (DBA)** para geoprocessamento 3D
-
 </td>
 <td width="50%">
 
@@ -110,6 +105,11 @@ const rafael: SoftwareEngineer = {
 - 🗄️ **Administração PostgreSQL** para projetos de mapeamento
 - 📈 Implementação de **monitoramento com Prometheus/Grafana**
 - ⚡ **Otimização de performance** através de indexação e tuning
+
+**DevOps & Infraestrutura:**
+- 📊 **Monitoramento de bancos de dados** com Prometheus, Grafana e PgExporter
+- 📈 **Centralização de logs** com ELK Stack (Elasticsearch + Kibana)
+- 🗄️ **Administração de bancos de dados (DBA)** para geoprocessamento 3D
 
 </td>
 </tr>
