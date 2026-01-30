@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner personalizado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rafael%20Santos%20Oliveira&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Developer%20%7C%20&descAlignY=52&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,5,17&height=180&section=header&text=Rafael%20Santos%20Oliveira&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Developer%20%7C%20&descAlignY=52&descSize=18" width="100%"/>
 
 <!-- Badges de Status -->
 <p>
@@ -365,20 +365,6 @@ Ferramenta prática para **automação de processos** e **ganho de produtividade
 | [🏧 C-ATM](https://github.com/rafaelsanoli/C-ATM) | Sistema de Caixa Eletrônico completo em C | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) |
 | [📈 MonitoramentoGrafanaPrometheus](https://github.com/rafaelsanoli/MonitoramentoGrafanaPrometheus) | Stack completa de Monitoramento | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) |
 | [🔍 MonitoramentoElasticSearch](https://github.com/rafaelsanoli/MonitoramentoElasticSearch) | Centralização de Logs com ELK | ![Elasticsearch](https://img.shields.io/badge/Elastic-005571?style=flat&logo=elasticsearch&logoColor=white) |
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelsanoli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=ffffff&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsanoli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=ffffff"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rafaelsanoli&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="700"/>
 
 </div>
 
