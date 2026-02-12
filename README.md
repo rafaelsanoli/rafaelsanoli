@@ -75,48 +75,6 @@ const rafael: SoftwareEngineer = {
 
 ---
 
-## 💼 Experiência Profissional
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏦 Banco Regional de Brasília (BRB)
-**Estagiário de TI** | Set 2025 - Presente
-
-**Desenvolvimento & IA:**
-- 🤖 Desenvolvimento de **solução de IA para suporte ao cliente**
-- 🎨 Design de **fluxos UX no Figma** para novas features
-- 🔍 **Auditorias de logs e Root Cause Analysis (RCA)** em ambientes de produção
-- 🐛 **Triagem rápida de problemas** reportados por clientes, identificando falhas do sistema
-
-</td>
-<td width="50%">
-
-### 🗺️ Topocart Topografia e Engenharia
-**Estagiário de TI** | Jul 2025 - Set 2025
-
-**Data Engineering & Analytics:**
-- 📊 Desenvolvimento de **dashboards estratégicos em Power BI**
-- 🔄 Criação de **pipelines ETL** com Pentaho (Extração, Transformação e Carga)
-- 📈 **Pipelines de dados e processos ETL** para sanitização de dados geográficos
-
-**Infraestrutura & Performance:**
-- 🗄️ **Administração PostgreSQL** para projetos de mapeamento
-- 📈 Implementação de **monitoramento com Prometheus/Grafana**
-- ⚡ **Otimização de performance** através de indexação e tuning
-
-**DevOps & Infraestrutura:**
-- 📊 **Monitoramento de bancos de dados** com Prometheus, Grafana e PgExporter
-- 📈 **Centralização de logs** com ELK Stack (Elasticsearch + Kibana)
-- 🗄️ **Administração de bancos de dados (DBA)** para geoprocessamento 3D
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
