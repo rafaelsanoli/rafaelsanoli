@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0f2027,50:203a43,100:2c5364&text=rafael%20sanoli&fontColor=e6edf3&fontSize=58&fontAlignY=42&desc=devops%20%E2%80%A2%20cloud%20%E2%80%A2%20automation&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0f2027,50:203a43,100:2c5364&text=rafael%20&fontColor=e6edf3&fontSize=58&fontAlignY=42&desc=devops%20%E2%80%A2%20cloud%20%E2%80%A2%20automation&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -19,7 +19,6 @@ learning:
   - infraestrutura como código
   - pipelines de ci/cd
   - observabilidade
-status: lowkey programmer
 ```
 
 <br>
