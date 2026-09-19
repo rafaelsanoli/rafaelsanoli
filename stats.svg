@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="230" viewBox="0 0 360 230">
+<style>
+  .t { font: 600 17px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #7aa2f7; }
+  .l { font: 400 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #c9d1d9; }
+  .v { font: 700 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #e6edf3; }
+  .m { font: 400 11px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #8b949e; }
+  .f { opacity: 0; animation: in .6s ease forwards; }
+  @keyframes in { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: none; } }
+  @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+</style>
+<rect x="0.5" y="0.5" width="359" height="229" rx="10" fill="none" stroke="#30363d"/>
+<text x="24" y="36" class="t">~/stats</text>
+<g class="f" style="animation-delay:0ms"><circle cx="30" cy="65" r="4" fill="#7aa2f7"/><text x="44" y="70" class="l">Commits (último ano)</text><text x="330" y="70" class="v" text-anchor="end">192</text></g><g class="f" style="animation-delay:120ms"><circle cx="30" cy="91" r="4" fill="#7dcfff"/><text x="44" y="96" class="l">Contribuições (último ano)</text><text x="330" y="96" class="v" text-anchor="end">241</text></g><g class="f" style="animation-delay:240ms"><circle cx="30" cy="117" r="4" fill="#bb9af7"/><text x="44" y="122" class="l">Repositórios públicos</text><text x="330" y="122" class="v" text-anchor="end">24</text></g><g class="f" style="animation-delay:360ms"><circle cx="30" cy="143" r="4" fill="#7aa2f7"/><text x="44" y="148" class="l">Pull requests</text><text x="330" y="148" class="v" text-anchor="end">0</text></g><g class="f" style="animation-delay:480ms"><circle cx="30" cy="169" r="4" fill="#7dcfff"/><text x="44" y="174" class="l">Stars recebidas</text><text x="330" y="174" class="v" text-anchor="end">6</text></g><g class="f" style="animation-delay:600ms"><circle cx="30" cy="195" r="4" fill="#bb9af7"/><text x="44" y="200" class="l">Seguidores</text><text x="330" y="200" class="v" text-anchor="end">7</text></g>
+</svg>

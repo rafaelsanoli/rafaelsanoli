@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="230" viewBox="0 0 760 230">
+<style>
+  .t { font: 600 17px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #7aa2f7; }
+  .l { font: 400 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #c9d1d9; }
+  .v { font: 700 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #e6edf3; }
+  .m { font: 400 11px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #8b949e; }
+  .f { opacity: 0; animation: in .6s ease forwards; }
+  @keyframes in { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: none; } }
+  @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+</style>
+<rect x="0.5" y="0.5" width="759" height="229" rx="10" fill="none" stroke="#30363d"/>
+<text x="24" y="36" class="t">~/activity</text>
+<defs><linearGradient id="ag" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#7aa2f7" stop-opacity=".45"/><stop offset="1" stop-color="#7aa2f7" stop-opacity="0"/></linearGradient>
+<linearGradient id="lg" x1="0" x2="1"><stop offset="0" stop-color="#7dcfff"/><stop offset=".5" stop-color="#7aa2f7"/><stop offset="1" stop-color="#bb9af7"/></linearGradient></defs>
+<line x1="44" x2="736" y1="190.0" y2="190.0" stroke="#30363d" stroke-dasharray="3 4"/><text x="36" y="194.0" class="m" text-anchor="end">0</text><line x1="44" x2="736" y1="157.5" y2="157.5" stroke="#30363d" stroke-dasharray="3 4"/><text x="36" y="161.5" class="m" text-anchor="end">2</text><line x1="44" x2="736" y1="125.0" y2="125.0" stroke="#30363d" stroke-dasharray="3 4"/><text x="36" y="129.0" class="m" text-anchor="end">4</text><line x1="44" x2="736" y1="92.5" y2="92.5" stroke="#30363d" stroke-dasharray="3 4"/><text x="36" y="96.5" class="m" text-anchor="end">5</text><line x1="44" x2="736" y1="60.0" y2="60.0" stroke="#30363d" stroke-dasharray="3 4"/><text x="36" y="64.0" class="m" text-anchor="end">7</text><text x="44.0" y="210" class="m" text-anchor="middle">22/07</text><text x="161.3" y="210" class="m" text-anchor="middle">01/08</text><text x="278.6" y="210" class="m" text-anchor="middle">11/08</text><text x="395.9" y="210" class="m" text-anchor="middle">21/08</text><text x="513.2" y="210" class="m" text-anchor="middle">31/08</text><text x="630.4" y="210" class="m" text-anchor="middle">10/09</text>
+<path d="M44.0,190.0 L55.7,190.0 L67.5,190.0 L79.2,190.0 L90.9,190.0 L102.6,190.0 L114.4,190.0 L126.1,190.0 L137.8,190.0 L149.6,190.0 L161.3,190.0 L173.0,190.0 L184.7,190.0 L196.5,190.0 L208.2,190.0 L219.9,190.0 L231.7,190.0 L243.4,190.0 L255.1,190.0 L266.8,190.0 L278.6,190.0 L290.3,190.0 L302.0,190.0 L313.8,190.0 L325.5,190.0 L337.2,190.0 L348.9,190.0 L360.7,190.0 L372.4,190.0 L384.1,171.4 L395.9,190.0 L407.6,190.0 L419.3,190.0 L431.1,190.0 L442.8,190.0 L454.5,190.0 L466.2,190.0 L478.0,190.0 L489.7,190.0 L501.4,190.0 L513.2,190.0 L524.9,190.0 L536.6,190.0 L548.3,190.0 L560.1,190.0 L571.8,190.0 L583.5,190.0 L595.3,190.0 L607.0,190.0 L618.7,190.0 L630.4,190.0 L642.2,190.0 L653.9,190.0 L665.6,190.0 L677.4,190.0 L689.1,190.0 L700.8,60.0 L712.5,190.0 L724.3,190.0 L736.0,190.0 L736.0,190 L44.0,190 Z" fill="url(#ag)" class="f" style="animation-delay:.8s"/>
+<path d="M44.0,190.0 L55.7,190.0 L67.5,190.0 L79.2,190.0 L90.9,190.0 L102.6,190.0 L114.4,190.0 L126.1,190.0 L137.8,190.0 L149.6,190.0 L161.3,190.0 L173.0,190.0 L184.7,190.0 L196.5,190.0 L208.2,190.0 L219.9,190.0 L231.7,190.0 L243.4,190.0 L255.1,190.0 L266.8,190.0 L278.6,190.0 L290.3,190.0 L302.0,190.0 L313.8,190.0 L325.5,190.0 L337.2,190.0 L348.9,190.0 L360.7,190.0 L372.4,190.0 L384.1,171.4 L395.9,190.0 L407.6,190.0 L419.3,190.0 L431.1,190.0 L442.8,190.0 L454.5,190.0 L466.2,190.0 L478.0,190.0 L489.7,190.0 L501.4,190.0 L513.2,190.0 L524.9,190.0 L536.6,190.0 L548.3,190.0 L560.1,190.0 L571.8,190.0 L583.5,190.0 L595.3,190.0 L607.0,190.0 L618.7,190.0 L630.4,190.0 L642.2,190.0 L653.9,190.0 L665.6,190.0 L677.4,190.0 L689.1,190.0 L700.8,60.0 L712.5,190.0 L724.3,190.0 L736.0,190.0" fill="none" stroke="url(#lg)" stroke-width="2.5" stroke-linejoin="round" stroke-dasharray="951" stroke-dashoffset="951">
+<animate attributeName="stroke-dashoffset" to="0" dur="1.6s" fill="freeze"/></path>
+<text x="736" y="36" class="m" text-anchor="end">últimos 60 dias</text>
+</svg>
