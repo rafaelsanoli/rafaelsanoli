@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="230" viewBox="0 0 360 230">
+<style>
+  .t { font: 600 17px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #7aa2f7; }
+  .l { font: 400 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #c9d1d9; }
+  .v { font: 700 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #e6edf3; }
+  .m { font: 400 11px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #8b949e; }
+  .f { opacity: 0; animation: in .6s ease forwards; }
+  @keyframes in { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: none; } }
+  @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+</style>
+<rect x="0.5" y="0.5" width="359" height="229" rx="10" fill="none" stroke="#30363d"/>
+<text x="24" y="36" class="t">~/langs</text>
+<mask id="bm"><rect x="24" y="56" width="312" height="10" rx="5" fill="#fff"/></mask><g mask="url(#bm)" style="transform-origin:24px 0;animation:grow 1s ease forwards"><rect x="24.0" y="56" width="191.9" height="10" fill="#3178c6"/><rect x="215.4" y="56" width="42.3" height="10" fill="#e34c26"/><rect x="257.2" y="56" width="26.5" height="10" fill="#b07219"/><rect x="283.2" y="56" width="23.0" height="10" fill="#663399"/><rect x="305.7" y="56" width="21.4" height="10" fill="#00ADD8"/><rect x="326.6" y="56" width="9.9" height="10" fill="#3572A5"/></g><g class="f" style="animation-delay:300ms"><circle cx="30" cy="96" r="5" fill="#3178c6"/><text x="42" y="100" class="l">TypeScript <tspan class="m">61.3%</tspan></text></g><g class="f" style="animation-delay:400ms"><circle cx="190" cy="96" r="5" fill="#e34c26"/><text x="202" y="100" class="l">HTML <tspan class="m">13.4%</tspan></text></g><g class="f" style="animation-delay:500ms"><circle cx="30" cy="126" r="5" fill="#b07219"/><text x="42" y="130" class="l">Java <tspan class="m">8.3%</tspan></text></g><g class="f" style="animation-delay:600ms"><circle cx="190" cy="126" r="5" fill="#663399"/><text x="202" y="130" class="l">CSS <tspan class="m">7.2%</tspan></text></g><g class="f" style="animation-delay:700ms"><circle cx="30" cy="156" r="5" fill="#00ADD8"/><text x="42" y="160" class="l">Go <tspan class="m">6.7%</tspan></text></g><g class="f" style="animation-delay:800ms"><circle cx="190" cy="156" r="5" fill="#3572A5"/><text x="202" y="160" class="l">Python <tspan class="m">3.0%</tspan></text></g>
+</svg>
