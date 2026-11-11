@@ -1,70 +1,67 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0f2027,50:203a43,100:2c5364&text=rafael%20&fontColor=e6edf3&fontSize=58&fontAlignY=42&desc=devops%20%E2%80%A2%20cloud%20%E2%80%A2%20automation&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
+<a href="https://github.com/rafaelsanoli/portfolio"><img src="assets/header.svg" width="100%" alt="rafael oliveira, product designer em Brasília"/></a>
 
-<div align="center">
+Product designer em Brasília. Desenho produtos digitais para fintech, com atenção a design systems e acessibilidade, e escrevo o código quando o protótipo precisa ser de verdade.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=520&lines=%24+whoami;rafael+%E2%80%94+lowkey+programmer;%24+kubectl+get+pods+-A;%24+terraform+apply+-auto-approve;%24+git+push+origin+main" alt="typing"/>
+Hoje sou **Product Design Intern no BRB — Banco de Brasília** e estudo **Engenharia de Software** na Uniceplac.
+Busco uma vaga de **Product Designer em fintech**, em Brasília ou remota.
 
-</div>
-
-<br>
-
-### `~/about`
-
-```yaml
-name: Rafael Santos Oliveira
-role: estudante de tecnologia
-focus: [devops, cloud, infraestrutura]
-learning:
-  - containers & orquestração
-  - infraestrutura como código
-  - pipelines de ci/cd
-  - observabilidade
-```
+**[Portfólio](https://github.com/rafaelsanoli/portfolio)** · **[LinkedIn](https://www.linkedin.com/in/rafaelsanoli)**
 
 <br>
 
-### `~/stack`
+<img src="assets/tiles.svg" height="16" alt=""/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,githubactions,jenkins&theme=dark" alt="base & ci/cd"/>
-  <br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,nginx&theme=dark" alt="containers & iac"/>
-  <br>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,prometheus,grafana,python,go&theme=dark" alt="cloud, observabilidade & linguagens"/>
-</p>
+### Cases
 
-<br>
+**Novo app Nação BRB FLA** · `trabalho no BRB`<br>
+O novo app do banco digital do Flamengo e do Banco BRB: benchmark de 13 bancos, análise de reclamações e um design system completo, evoluindo o app sem afastar quem já usa.
 
-### `~/stats`
+**Pix Automático** · `fintech · mobile`<br>
+O total do mês logo na entrada e um cancelamento sem pegadinha, com "cancelar só esta cobrança" separado de "cancelar a autorização". Acerto nas tarefas de 73% para 100% entre as rodadas de teste.
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rafaelsanoli&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=7aa2f7&icon_color=7aa2f7&text_color=c9d1d9&rank_icon=github" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsanoli&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=7aa2f7&text_color=c9d1d9" alt="top langs"/>
-</p>
+**Design system da fio** · `design system`<br>
+Tokens em três camadas e 22 componentes, com foco no que kits genéricos não resolvem: valor em reais, saldo oculto, linha de transação e código por SMS.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rafaelsanoli&hide_border=true&background=00000000&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7&sideLabels=C9D1D9&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E&stroke=30363D" alt="streak"/>
-</p>
+**Painel MEI** · `fintech b2b · web`<br>
+Um painel para microempreendedores saberem em 10 segundos se vão estourar o limite do MEI, com uma projeção que se apresenta como estimativa.
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelsanoli&bg_color=00000000&color=c9d1d9&line=7aa2f7&point=e6edf3&area=true&area_color=7aa2f7&hide_border=true&custom_title=contributions" alt="activity"/>
-</p>
+**Abertura de conta acessível** · `acessibilidade · mobile`<br>
+Documento e selfie, dados, código e senha redesenhados para quem usa leitor de tela, com a spec de acessibilidade ao lado de cada tela.
+
+> Os testes dos projetos autorais foram feitos com proto-personas de IA e servem para comparar versões. O próximo passo é repetir com pessoas reais.
 
 <br>
 
-### `~/contact`
+<img src="assets/tiles.svg" height="16" alt=""/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/rafaelsanoli"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn"/></a>
-  <a href="mailto:rafaelsanoli@icloud.com"><img src="https://img.shields.io/badge/iCloud_Mail-0d1117?style=for-the-badge&logo=icloud&logoColor=7aa2f7" alt="E-mail"/></a>
-  <img src="https://komarev.com/ghpvc/?username=rafaelsanoli&label=views&color=0d1117&style=for-the-badge" alt="views"/>
-</p>
+### Como eu trabalho
+
+- **protótipo em código junto com o figma.** O time sente o fluxo de verdade antes de qualquer ticket.
+- **evoluir antes de reinventar.** Quem já usa o produto não deveria precisar reaprender.
+- **tokens antes de telas.** Decisão de cor e espaço vira código uma vez só.
+- **acessibilidade vai na spec, não no fim.** Ordem de foco, fala do leitor e tamanho do alvo ao lado de cada tela.
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelsanoli/rafaelsanoli/output/github-snake-dark.svg"/>
-  <img width="100%" src="https://raw.githubusercontent.com/rafaelsanoli/rafaelsanoli/output/github-snake.svg" alt="snake"/>
-</picture>
+<img src="assets/tiles.svg" height="16" alt=""/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:2c5364,50:203a43,100:0f2027" width="100%"/>
+### Trajetória
+
+- `2026 →` **Product Design Intern** · BRB — Banco de Brasília
+- `2025` **DBA Intern** · Topocart
+- `até 2028` **Engenharia de Software** · Uniceplac
+
+<br>
+
+<img src="assets/tiles.svg" height="16" alt=""/>
+
+### Ferramentas
+
+**Design** — Figma, prototipagem, pesquisa, design systems, acessibilidade, motion<br>
+**Código** — React, TypeScript, JavaScript, Angular
+
+<br>
+
+---
+
+**EN** · Product designer in Brasília, Brazil. I design digital products for fintech, with a focus on design systems and accessibility. Product Design Intern at BRB, Software Engineering student, looking for a Product Designer role in fintech (Brasília or remote).
