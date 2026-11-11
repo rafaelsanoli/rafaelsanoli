@@ -58,8 +58,9 @@ Documento e selfie, dados, código e senha redesenhados para quem usa leitor de 
 ### Ferramentas
 
 **Habilidades** — pesquisa, UX, UI, prototipagem, design systems, acessibilidade, motion<br>
-**Design e IA** — Figma, FigJam, Claude Design, Claude<br>
-**Código** — React, TypeScript, JavaScript, Angular, Next.js, Vercel, GitHub
+**Design e IA** — Figma, FigJam, Framer, Claude Design, Claude<br>
+**Produto** — Jira, Notion<br>
+**Código** — React, TypeScript, JavaScript, Angular, Next.js
 
 <br>
 
