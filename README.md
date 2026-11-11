@@ -5,7 +5,7 @@ Product designer em Brasília. Desenho produtos digitais para fintech, com aten�
 Hoje sou **Product Design Intern no BRB — Banco de Brasília** e estudo **Engenharia de Software** na Uniceplac.
 Busco uma vaga de **Product Designer em fintech**, em Brasília ou remota.
 
-**[Portfólio](https://github.com/rafaelsanoli/portfolio)** · **[LinkedIn](https://www.linkedin.com/in/rafaelsanoli)**
+**[Portfólio](https://rafaelsanoli.com.br)** · **[LinkedIn](https://www.linkedin.com/in/rafaelsanoli)**
 
 <br>
 
